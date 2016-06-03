@@ -1,1 +1,4 @@
-TestHello.hpp
+TestCryptsAndVillusLiteratePaper.hpp
+TestElectroMechanicsLiteratePaper.hpp
+TestSpiralWaveLiteratePaper.hpp
+TestSpheroidExperimentsLiteratePaper.hpp
